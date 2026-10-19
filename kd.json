@@ -115,6 +115,16 @@
                 "MAYA": "22",
                 "supplier": "12"
             }
+        },
+        {
+            "id": 18,
+            "name": "123Pay",
+            "paymentMethod": {
+                "GCASH": "",
+                "QRPH": "",
+                "MAYA": "34",
+                "supplier": "18"
+            }
         }
     ]
 }
