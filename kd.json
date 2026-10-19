@@ -68,23 +68,53 @@
     "supplier": [
         {
             "id": 17,
-            "name": "KD"
+            "name": "KD",
+            "paymentMethod": {
+                "GCASH": "32",
+                "QRPH": "33",
+                "MAYA": "",
+                "supplier": "17"
+            }
         },
         {
             "id": 13,
-            "name": "Runner2"
+            "name": "Runner2",
+            "paymentMethod": {
+                "GCASH": "",
+                "QRPH": "",
+                "MAYA": "",
+                "supplier": "13"
+            }
         },
         {
             "id": 6,
-            "name": "Runner"
+            "name": "Runner",
+            "paymentMethod": {
+                "GCASH": "",
+                "QRPH": "",
+                "MAYA": "",
+                "supplier": "6"
+            }
         },
         {
             "id": 11,
-            "name": "JDPay"
+            "name": "JDPay",
+            "paymentMethod": {
+                "GCASH": "17",
+                "QRPH": "18",
+                "MAYA": "19",
+                "supplier": "11"
+            }
         },
         {
             "id": 12,
-            "name": "YUNPay"
+            "name": "YUNPay",
+            "paymentMethod": {
+                "GCASH": "20",
+                "QRPH": "21",
+                "MAYA": "22",
+                "supplier": "12"
+            }
         }
     ]
 }
