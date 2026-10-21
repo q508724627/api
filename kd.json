@@ -125,6 +125,16 @@
                 "MAYA": "34",
                 "supplier": "18"
             }
+        },
+        {
+            "id": 14,
+            "name": "Paytm",
+            "paymentMethod": {
+                "GCASH": "25",
+                "QRPH": "26",
+                "MAYA": "34",
+                "supplier": "14"
+            }
         }
     ]
 }
