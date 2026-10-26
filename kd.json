@@ -135,6 +135,16 @@
                 "MAYA": "34",
                 "supplier": "14"
             }
+        },
+        {
+            "id": 19,
+            "name": "MagicPay",
+            "paymentMethod": {
+                "GCASH": "37",
+                "QRPH": "35",
+                "MAYA": "36",
+                "supplier": "19"
+            }
         }
     ]
 }
