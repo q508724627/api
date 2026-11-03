@@ -54,7 +54,7 @@
                 "merchantName": "ph143"
             }
         ],
-        "nik": [
+        "prestige": [
             {
                 "merchant": 85,
                 "merchantName": "Win88"
@@ -66,6 +66,10 @@
             {
                 "merchant": 93,
                 "merchantName": "Missfortune"
+            },
+            {
+                "merchant": 94,
+                "merchantName": "PFORTUNE"
             },
             {
                 "merchant": 88,
