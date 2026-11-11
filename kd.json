@@ -74,6 +74,18 @@
             {
                 "merchant": 88,
                 "merchantName": "PRESTIGE"
+            },
+            {
+                "merchant": 96,
+                "merchantName": "IMPERIAPRSTGE"
+            },
+            {
+                "merchant": 97,
+                "merchantName": "MILLIONBETS"
+            },
+            {
+                "merchant": 98,
+                "merchantName": "Sylorainfinity"
             }
         ]
     },
